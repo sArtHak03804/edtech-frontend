@@ -24,15 +24,17 @@ Edemy LMS is a modern Learning Management System (LMS) built using **Vite** for 
 - **Frontend:** React.js, Vite, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** Firebase/Auth or Clerk
+- **Authentication:** Clerk
 - **Deployment:** Vercel / Netlify
 
 ## 📥 Installation
 Follow these steps to run the project locally:
 
 ```bash
+# make client folder
+mkdir client
 # Clone the repository
-git clone https://github.com/Gyanthakur/Edemy-frontend.git
+git clone https://github.com/sArtHak03804/edtech-frontend.git
 
 # Navigate to the project folder
 cd demy-frontend
@@ -68,7 +70,10 @@ npm run dev
 
 ## 📌 Folder Structure
 ```
-📂 edemy-lms/
+📂 client/
+├── 📁 public/
+│   ├── favicon.jpg
+│   ├── favicon.svg
 ├── 📁 src/
 │   ├── 📁 components/
 │   ├── 📁 pages/
@@ -90,9 +95,8 @@ npm run dev
 ## 🎯 Future Enhancements
 - ✅ Instructor Dashboard
 - ✅ Quiz and Assessments
+- ✅ Documents  and Technical assistance 
 - ✅ Payment Integration for Paid Courses
-- ✅ AI-based Course Recommendations
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
@@ -100,7 +104,4 @@ This project is licensed under the **MIT License**.
 Contributions are welcome! If you find any bugs or have suggestions, feel free to create an issue or submit a pull request.
 
 ## 📬 Contact
-- **Author:** Gyan Pratap Singh
-- **Email:** [gps.96169@gmail.com](mailto:gps.96169@gmail.com)
-- **Portfolio:** [portfolio-v1-chi-one.vercel.app](https://gyan-pratap-singh.vercel.app/)
-
+- **Author:** Sarthak Patel
