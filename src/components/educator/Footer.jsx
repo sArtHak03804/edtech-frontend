@@ -16,9 +16,9 @@ const Footer = () => {
 
 
       <div className='flex items-center gap-3 max-md:mt-4'>
-        <Link to='https://www.facebook.com/profile.php?id=100026766931684'><img src={assets.facebook_icon} alt="" /></Link>
-        <Link to='https://x.com/gps_96169'><img src={assets.twitter_icon} alt="" /></Link>
-        <Link to='https://www.linkedin.com/in/gyan-pratap-singh-275785236/'><img src={assets.instagram_icon} alt="" /></Link>
+        <Link to='https://www.facebook.com/profile.php?id=100080013756964'><img src={assets.facebook_icon} alt="" /></Link>
+        <Link to='https://x.com/sarth25417'><img src={assets.twitter_icon} alt="" /></Link>
+        <Link to='https://www.linkedin.com/in/sarthak-patel-73213827a/'><img src={assets.instagram_icon} alt="" /></Link>
       </div>
     </footer>
   )
