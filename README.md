@@ -38,7 +38,7 @@ mkdir client
 git clone https://github.com/sArtHak03804/edtech-frontend.git
 
 # Navigate to the project folder
-cd demy-frontend
+cd edtech-frontend
 
 # Install dependencies
 npm install
